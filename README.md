@@ -1,3 +1,3 @@
-# MyPage
+# Projects
 :grinning:
 Personal Web Page
