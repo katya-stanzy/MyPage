@@ -1,3 +1,3 @@
 # MyPage
- 	:grinning:
+:grinning:
 Personal Web Page
